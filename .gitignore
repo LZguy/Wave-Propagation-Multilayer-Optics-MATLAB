@@ -1,0 +1,17 @@
+# MATLAB / Simulink
+*.asv
+*.m~*
+*.mex*
+*.autosave
+
+# Simulink caches & build
+slprj/
+sccprj/
+coderassociations.mat
+*.slxc
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
